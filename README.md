@@ -1,3 +1,7 @@
+
+MUHAMMAD IBRAHIM THEEK HA
+
+
 # GoodERP 资源汇总
 [旧版本源代码](https://github.com/osbzr/gooderp_addons) 基于Odoo10社区版 Python2.7 已停止更新
 
